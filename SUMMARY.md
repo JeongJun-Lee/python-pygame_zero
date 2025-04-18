@@ -42,7 +42,7 @@
   * [9.6 객체지향으로 개발하기 2](battle_city/9.6_oop_dev2.md)
   * [9.7 객체지향으로 개발하기 3](battle_city/8.8_oop_dev3.md)
   * [9.8 객체지향으로 개발하기 4](battle_city/8.9_oop_dev4.md)
-* [10. 퐁(Pong)을 네트워크 게임으로 만들기 (미완)](pong_network/README.md)
+* [10. 퐁(Pong)을 네트워크 게임으로 만들기](pong_network/README.md)
   * [10.1 네트워크 게임방식의 이해와 라이브러리 설치](pong_network/10.1_nethelper_install.md)
   * [10.2 릴레이 서버 구동과 클라이언트 접속](pong_network/10.2_server_connection.md)
   * [10.3 네트워크 게임으로 만들기 1](pong_network/10.3_dev_net_1.md)
