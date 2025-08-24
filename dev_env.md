@@ -45,7 +45,7 @@ Mu 에디터는 코딩도우미 프로그램으로서 "단순 코드 편집기" 
 {% hint style="info" %}
 **위에 에디터 화면은 위에서 언급한 필자가 제작 중인 커스텀 버전의 외관으로, 보이는 것처럼 현재 일부 한글화가 적용되어 있고, 전체 한글화를 목표하고 있다. 다만, 전체 한글화에는 많이 시간이 걸리므로 여러분의 참여를 기다리고 있다. 가능한한 많은 분들이 함께 번역에 참여해 빠른 시간에 마치고, 모두가 함께 그 혜택을 누리길 원하고 있다. 모두를 위해 자신의 시간을 기꺼이 할애해 자발적 참여해 주실 분들을 언제나 환영하고 기다린다🙏**
 
-번역참여링크: [https://crowdin.com/project/mu-editor-korean-translation/invite?h=77d1d6ec51d0aeb5cfff7ecf39a5ede51970084](https://crowdin.com/project/mu-editor-korean-translation/invite?h=77d1d6ec51d0aeb5cfff7ecf39a5ede51970084)
+번역참여링크: [https://crowdin.com/project/mu-editor-korean-translation](https://crowdin.com/project/mu-editor-korean-translation)
 {% endhint %}
 
 이로써 우리는 코딩을 시작하기 위한 사전 준비를 마쳤고, 이제 다음 시간부터는 실제 파이썬 언어 코딩을 시작해 보자.
