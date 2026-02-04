@@ -27,7 +27,7 @@
   * [7.4 그 밖에 도전과제](twinbee/7.4_additional_challenge.md)
 * [8. 퐁(Pong) 게임 만들기](pong/README.md)
   * [8.1 절차지향으로 개발하기 1](pong/8.1_procedural_dev1.md)
-  * [8.2 절차지향형으로 개발하기 2](pong/8.2_procedural_dev1.md)
+  * [8.2 절차지향형으로 개발하기 2](pong/8.2_procedural_dev2.md)
   * [8.3 객체지향 개발이론 (객제지향 디자인이란)](pong/ood.md)
   * [8.4 객체지향 개발이론 (사용자 정의 객체 만들기, 상속)](pong/oop_inheritance.md)
   * [8.5 객체지향으로 개발하기 1](pong/8.5_oop_dev1.md)
