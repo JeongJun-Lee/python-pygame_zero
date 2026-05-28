@@ -35,3 +35,5 @@ _참고로 만약 어려분이 이미 파이썬 기초문법을 넘어 심화문
 #### 저작권: [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ko)
 
 ![](<.gitbook/assets/image (40).png>)
+
+{% include "https://app.gitbook.com/s/6FcF5JzEabIky96TfV3Z/~/reusable/3pUVkHOkYOOZOHKLWWJ5/" %}
